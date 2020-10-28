@@ -1,2 +1,2 @@
 # TFT-LCD
-ZONESTAR TFT-LCD firmware
+ZONESTAR TFT-LCD User guide,firmware, and stl file for the case
