@@ -1,0 +1,1 @@
+download the zip file to your PC and then unzip it, copy all files to SD card root directory and then insert the SD card to TFT-LCD, reset it to upload
